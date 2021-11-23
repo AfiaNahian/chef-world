@@ -1,0 +1,17 @@
+.btn-regular{
+    background-color: goldenrod;
+    width: 200px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.single-chef {
+    background-color:bisque;
+    box-shadow: 4px 4px 7px gray;
+    height : 540px;
+    transition: 0.6s;
+  }
+  .single-chef img{
+      height: 200px;
+  }
